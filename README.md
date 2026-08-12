@@ -1,1 +1,1 @@
-(gh-pages)[https://nikitakiryaev-web.github.io/famfactory/]
+[gh-pages](https://nikitakiryaev-web.github.io/famfactory/)
